@@ -1,6 +1,6 @@
 {
   "name": "bootstrapvue-nesteddropdown",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "main": "dist/NestedDropdown.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint",
     "postinstall": "patch-package"
   },
+  "keywords": ["vue","bootstrapvue","bootstrap","nested","dropdown"],
   "dependencies": {
     "@indielayer/vue-live-demo": "^1.1.2",
     "bootstrap": "^5.3.1",
