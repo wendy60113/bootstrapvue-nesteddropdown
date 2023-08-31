@@ -3,8 +3,8 @@
     <div class="infoBox">
         <img src="./assets/logo.png"/>
         <h2 style="color:#333" class="mb-3">Nested Dropdown</h2>
-        <b-button size="sm" class="m-2" style="background-color:#ce2f2f; border:0" href="https://www.npmjs.com/package/tag_transfer">Npm</b-button>
-        <b-button size="sm" class="m-2" style="background-color:#333; border:0" href="https://github.com/wendy60113/TransferUI">Github</b-button>
+        <b-button size="sm" class="m-2" style="background-color:#ce2f2f; border:0" href="https://www.npmjs.com/package/bootstrapvue-nesteddropdown">Npm</b-button>
+        <b-button size="sm" class="m-2" style="background-color:#333; border:0" href="https://github.com/wendy60113/bootstrapvue-nesteddropdown">Github</b-button>
     </div>
     <div class="demoBox">
       <VueLiveDemo
@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import VueLiveDemo from '@indielayer/vue-live-demo'
+import VueLiveDemo from '@/codeview/VueLiveDemo'
 import DemoCode from "!!raw-loader!./view/DemoCode.vue"
 import NestedDropdown from '@/components/NestedDropdown'
 export default {

@@ -1,8 +1,10 @@
 <template>
-  <NestedDropdown
-    v-model="modelData"
-    :option="optionList"
-  />
+  <div>
+    <NestedDropdown
+      v-model="modelData"
+      :option="optionList"
+    />
+  </div>
 </template>
 
 <script>
