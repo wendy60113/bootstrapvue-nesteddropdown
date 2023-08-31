@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Demo Website](https://wendy60113.github.io/TransferUI/)
+[Demo Website](https://wendy60113.github.io/bootstrapvue-nesteddropdown/)
 
 ## Installation
 
